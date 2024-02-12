@@ -1,0 +1,1 @@
+web: gunicorn silly-talks-blog.wsgi

@@ -26,9 +26,9 @@ SECRET_KEY = 'django-insecure-utp+iqh#km(zl8th#l@3ex#!w6#tu-tvo)jde=y-@5k^4+hra+
 DEBUG = False
 
 ALLOWED_HOSTS = ['.herokuapp.com',
+                 'https://sillytalks-blog-abbefcc01054.herokuapp.com/'
                  'http://localhost:24000/'
-                 
-]
+                 ]
 
 
 # Application definition

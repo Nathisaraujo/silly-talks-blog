@@ -1,1 +1,1 @@
-web: gunicorn silly-talks-blog.wsgi
+web: gunicorn sillytalks.wsgi
